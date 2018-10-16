@@ -1,0 +1,22 @@
+{
+  "name": "bergennerschoolw2",
+  "version": "1.0.0",
+  "description": "2nd Workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "return(\"hi w\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoringMouse/BergenNerschoolW2.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "drillingmouse",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/BoringMouse/BergenNerschoolW2/issues"
+  },
+  "homepage": "https://github.com/BoringMouse/BergenNerschoolW2#readme"
+}
